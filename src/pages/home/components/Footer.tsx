@@ -81,7 +81,7 @@ export default function Footer() {
               <strong className="text-gray-400">MrBoom9</strong>: <strong className="text-gray-400">new style</strong>,{" "}
               <strong className="text-gray-400">new bonuses</strong>, built for <strong className="text-gray-400">Aussie players</strong> and
               popular with <strong className="text-gray-400">young Aussies</strong>. Pokies, live games, sports, AUD banking. Check{" "}
-              <span className="text-gray-400">mrboom9.com</span> for deposit and withdrawal info.
+              <span className="text-gray-400">mrboom9.org</span> for deposit and withdrawal info.
             </p>
           </div>
 

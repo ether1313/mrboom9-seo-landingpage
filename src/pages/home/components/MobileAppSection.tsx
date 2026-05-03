@@ -3,7 +3,7 @@ import { LANDING_PAGE_URL } from "../../../config/site";
 const features = [
   {
     title: "MrBoom9 AUS App Download",
-    desc: "Android members install via APK distributed through official mrboom9.com channels, reflecting standard practice where marketplace policies restrict real-money gaming clients. iOS access remains available through the mobile web experience.",
+    desc: "Android members install via APK distributed through official mrboom9.org channels, reflecting standard practice where marketplace policies restrict real-money gaming clients. iOS access remains available through the mobile web experience.",
     icon: "ri-download-cloud-line",
   },
   {
@@ -40,7 +40,7 @@ export default function MobileAppSection() {
           <strong className="text-white">MrBoom9</strong> maintains a dedicated{" "}
           <strong className="text-white">Australian market application</strong> that mirrors the desktop incentive stack
           and account controls for members who require full functionality away from fixed workstations. Distribution is
-          administered via <strong className="text-white">mrboom9.com</strong> to align with platform policy requirements
+          administered via <strong className="text-white">mrboom9.org</strong> to align with platform policy requirements
           for real-AUD wagering products.
         </p>
 

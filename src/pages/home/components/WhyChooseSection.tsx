@@ -26,7 +26,7 @@ const reasons = [
   {
     num: "5",
     title: "Share & earn extras",
-    desc: "Facebook, Telegram, WhatsApp, and TPA tasks pay fixed AUD rewards when you finish the steps inside mrboom9.com.",
+    desc: "Facebook, Telegram, WhatsApp, and TPA tasks pay fixed AUD rewards when you finish the steps inside mrboom9.org.",
     icon: "ri-share-forward-line",
   },
   {

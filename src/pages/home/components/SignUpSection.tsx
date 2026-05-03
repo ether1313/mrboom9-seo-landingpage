@@ -4,7 +4,7 @@ export default function SignUpSection() {
   const steps = [
     {
       title: "Open the MrBoom9 register screen",
-      desc: "On mobile or desktop, go to the Login and Register entry on mrboom9.com so you see the same fields as the live app, including the TPA partnership badge when it is shown beside the form.",
+      desc: "On mobile or desktop, go to the Login and Register entry on mrboom9.org so you see the same fields as the live app, including the TPA partnership badge when it is shown beside the form.",
     },
     {
       title: "Enter your full legal name",
@@ -50,7 +50,7 @@ export default function SignUpSection() {
           MrBoom9 Sign Up: Register Step by Step
         </h2>
         <p className="text-gray-400 text-sm mb-8 max-w-3xl">
-          Follow the same order as the mrboom9.com registration form: name, mobile, password, optional referrer code,
+          Follow the same order as the mrboom9.org registration form: name, mobile, password, optional referrer code,
           SMS verification with GET CODE, then REGISTER. Keep your bank details and profile name aligned from day one.
         </p>
 

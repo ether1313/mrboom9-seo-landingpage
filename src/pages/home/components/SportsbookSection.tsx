@@ -2,7 +2,7 @@ const sports = [
   {
     icon: "ri-football-line",
     title: "Football and FIFA World Cup cycles",
-    desc: "Premier League, La Liga, Serie A, Champions League, and international windows including FIFA World Cup futures and match markets once fixtures publish on mrboom9.com.",
+    desc: "Premier League, La Liga, Serie A, Champions League, and international windows including FIFA World Cup futures and match markets once fixtures publish on mrboom9.org.",
   },
   {
     icon: "ri-basketball-line",
@@ -17,7 +17,7 @@ const sports = [
   {
     icon: "ri-exchange-dollar-line",
     title: "Single balance with the casino lobby",
-    desc: "Promotions referenced on this landing page focus on the six mrboom9.com tiles in the bonuses section. Sports stakes still draw from the same AUD wallet after you complete rollover on any active slot bonus.",
+    desc: "Promotions referenced on this landing page focus on the six mrboom9.org tiles in the bonuses section. Sports stakes still draw from the same AUD wallet after you complete rollover on any active slot bonus.",
   },
   {
     icon: "ri-smartphone-line",
@@ -44,7 +44,7 @@ export default function SportsbookSection() {
         <p className="text-gray-400 text-sm mb-10 max-w-3xl">
           The <strong className="text-white">MrBoom9 sportsbook</strong> sits beside the casino lobby so football fans can
           ride FIFA tournament swings without opening a second operator account. Bonus headline amounts on this microsite
-          intentionally mirror only the six mrboom9.com tiles outlined above.
+          intentionally mirror only the six mrboom9.org tiles outlined above.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

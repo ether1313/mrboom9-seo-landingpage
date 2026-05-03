@@ -30,7 +30,7 @@ export default function SeoContentSection() {
             and whether bonus rules on screen still match what applies at checkout. This guide summarises how MrBoom9 presents those
             answers. It is not legal advice and it does not replace the terms on{" "}
             <a href={SITE_ORIGIN} target="_blank" rel="noopener noreferrer" className="text-[#e8b800] hover:underline">
-              mrboom9.com
+              mrboom9.org
             </a>
             , so please confirm bonuses, limits, and eligibility there before you deposit or opt in.
           </p>
@@ -86,7 +86,7 @@ export default function SeoContentSection() {
             Registration, SMS codes, and matching your bank name
           </h3>
           <p className="text-gray-400 leading-relaxed not-prose mb-4">
-            The mrboom9.com sign-up flow asks for your legal name as it appears at the bank, an Australian mobile number for SMS, a
+            The mrboom9.org sign-up flow asks for your legal name as it appears at the bank, an Australian mobile number for SMS, a
             password within the stated length, and an optional referrer code. You request a code with GET CODE, enter the SMS pin, then
             complete registration. Names that do not match payout methods are a common reason withdrawals pause for review, because the
             operator has to line up bank records with the profile on file.
@@ -107,7 +107,7 @@ export default function SeoContentSection() {
             The site currently centres on six headline offers. The summaries below match the public tiles; percentages and caps can
             change, so treat them as a guide and verify on{" "}
             <a href={`${SITE_ORIGIN}/promotion`} target="_blank" rel="noopener noreferrer" className="text-[#e8b800] hover:underline">
-              mrboom9.com/promotion
+              mrboom9.org/promotion
             </a>{" "}
             before you claim.
           </p>
@@ -123,7 +123,7 @@ export default function SeoContentSection() {
               rel="noopener noreferrer"
               className="text-[#e8b800] hover:underline"
             >
-              mrboom9.com/monthly-top-10-deposit
+              mrboom9.org/monthly-top-10-deposit
             </a>
             .
           </p>
@@ -162,7 +162,7 @@ export default function SeoContentSection() {
           <h3 className="text-lg font-bold text-white mb-2">Social share bonuses</h3>
           <p className="text-gray-400 leading-relaxed not-prose mb-6">
             Task-based credits include Facebook (AUD 30), Trusted Pokies Australia share (AUD 35), Telegram (AUD 30), and WhatsApp task
-            (AUD 39.99). Each channel has its own proof-of-completion rules inside mrboom9.com, so readers should expect to follow briefs
+            (AUD 39.99). Each channel has its own proof-of-completion rules inside mrboom9.org, so readers should expect to follow briefs
             closely before funds credit.
           </p>
 
@@ -211,7 +211,7 @@ export default function SeoContentSection() {
           <h3 className="text-xl font-bold text-white mb-3">MEGA888</h3>
           <p className="text-gray-400 leading-relaxed not-prose mb-4">
             MEGA888 has a long history in app-led markets, which is why people still search for install help. The credible angle is to
-            steer readers toward official mrboom9.com download notes rather than third-party APK mirrors, and to treat sideloading as a
+            steer readers toward official mrboom9.org download notes rather than third-party APK mirrors, and to treat sideloading as a
             conscious security choice on their device.
           </p>
 
@@ -240,7 +240,7 @@ export default function SeoContentSection() {
           </p>
 
           <p className="text-gray-500 text-sm leading-relaxed not-prose border-t border-white/10 pt-8">
-            Editorial teams should refresh this page whenever mrboom9.com updates prize ladders, rollover factors, or game restrictions so
+            Editorial teams should refresh this page whenever mrboom9.org updates prize ladders, rollover factors, or game restrictions so
             visitors always see numbers that match the live site. Mix branded anchor text with neutral phrases such as “Australian online
             casino” to cover both people who search the brand name and those who browse by topic.
           </p>

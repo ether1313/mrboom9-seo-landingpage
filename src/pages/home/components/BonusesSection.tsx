@@ -17,7 +17,7 @@ const bonuses: BonusCard[] = [
       "Runs from the 1st through the last day of each month on Sydney and Melbourne time. Rank uses total deposit amount only. Rewards settle after the month closes.",
     bullets: [
       "Prizes for ranks #1 to #10, from AUD 5999 down to AUD 199",
-      "Tap Check Your Ranking on mrboom9.com to see live placement",
+      "Tap Check Your Ranking on mrboom9.org to see live placement",
     ],
   },
   {
@@ -67,7 +67,7 @@ const bonuses: BonusCard[] = [
   {
     icon: "ri-share-line",
     title: "Social Share Bonuses",
-    intro: "Complete the channel tasks on mrboom9.com to unlock fixed AUD rewards.",
+    intro: "Complete the channel tasks on mrboom9.org to unlock fixed AUD rewards.",
     bullets: [
       "Facebook Share Bonus AUD 30",
       "TPA Share Bonus AUD 35 (Trusted Pokies Australia)",
@@ -95,7 +95,7 @@ export default function BonusesSection() {
           MrBoom9 Player Bonuses and Promotions
         </h2>
         <p className="text-gray-400 text-sm mb-10 max-w-3xl">
-          Here are the six main <strong className="text-gray-200">bonus</strong> deals on <strong className="text-gray-200">mrboom9.com</strong>{" "}
+          Here are the six main <strong className="text-gray-200">bonus</strong> deals on <strong className="text-gray-200">mrboom9.org</strong>{" "}
           for <strong className="text-gray-200">Australian players</strong>: easy labels, straight rollover notes, same tiles you see live on
           site. Always read the full rules on the promo page before you opt in or deposit.
         </p>

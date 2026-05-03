@@ -55,7 +55,7 @@ export default function Home() {
             <p className="text-gray-400 text-sm leading-relaxed mb-4 max-w-4xl">
               <strong className="text-gray-200">MrBoom9</strong> is built for <strong className="text-gray-200">Australian players</strong>{" "}
               who want a <strong className="text-gray-200">new look</strong>, <strong className="text-gray-200">new bonuses</strong>, and a{" "}
-              <strong className="text-gray-200">mobile-friendly</strong> site on <strong className="text-gray-200">mrboom9.com</strong>. It
+              <strong className="text-gray-200">mobile-friendly</strong> site on <strong className="text-gray-200">mrboom9.org</strong>. It
               hits the sweet spot with <strong className="text-gray-200">young Aussies</strong> who want pokies, live games, and sports in one
               place with <strong className="text-gray-200">AUD</strong> payments and straight-up promo rules.
             </p>
@@ -69,7 +69,7 @@ export default function Home() {
             </p>
             <p className="text-gray-400 text-sm leading-relaxed max-w-4xl">
               Below we cover sign-up with SMS, games, sports, and FAQs. Numbers are a quick guide only; always double-check the cashier and
-              promo pages on <strong className="text-gray-200">mrboom9.com</strong> before you deposit or claim.
+              promo pages on <strong className="text-gray-200">mrboom9.org</strong> before you deposit or claim.
             </p>
           </div>
         </section>
