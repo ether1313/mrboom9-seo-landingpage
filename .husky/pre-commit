@@ -1,0 +1,2 @@
+npm run generate:sitemap
+git add public/sitemap.xml public/robots.txt

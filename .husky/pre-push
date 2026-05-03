@@ -1,0 +1,16 @@
+npm run generate:sitemap
+TRACKED=$(git ls-files -- public/sitemap.xml public/robots.txt 2>/dev/null | wc -l | tr -d " ")
+if [ "$TRACKED" != "2" ]; then
+  echo ""
+  echo "请先纳入版本库后再 push："
+  echo "  git add public/sitemap.xml public/robots.txt && git commit -m \"chore: add sitemap\""
+  echo ""
+  exit 1
+fi
+if ! git diff --quiet HEAD -- public/sitemap.xml public/robots.txt 2>/dev/null; then
+  echo ""
+  echo "Sitemap/robots 与上次提交不一致（例如日期已变）。请先提交后再 push："
+  echo "  git add public/sitemap.xml public/robots.txt && git commit -m \"chore: refresh sitemap\""
+  echo ""
+  exit 1
+fi
